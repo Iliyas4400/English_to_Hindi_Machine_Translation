@@ -1,4 +1,4 @@
-# Machine_Translation from English to Hindi
+# Machine Translation from English to Hindi
 ## Translate Texts from English to Hindi using sequence to sequence Model ##
 ### Data set ###
 Text data is downloaded from(https://www.kaggle.com/aiswaryaramachandran/english-to-hindi-neural-machine-translation?select=Hindi_English_Truncated_Corpus.csv)
